@@ -13,7 +13,7 @@ I'm **Bahri ABACI**, a computer vision enthusiast and Ph.D. student.
 <div align=center>
 
 [![](icons/github.png)](https://github.com/cescript)
-[![](icons/linkedin.png)](www.linkedin.com/in/abacibahri)
+[![](icons/linkedin.png)](https://www.linkedin.com/in/abacibahri)
 [![](icons/reddit.png)](https://www.reddit.com/user/cescript)
 [![](icons/scholar.png)](https://scholar.google.com/citations?user=1fzX5asAAAAJ)
 
