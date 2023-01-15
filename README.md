@@ -6,9 +6,9 @@ I'm **Bahri ABACI**, a computer vision enthusiast and Ph.D. student.
 
 👨‍💻 I speak the language of computers fluently, specifically in **C**, **C++**, **Python** and **Matlab**. 
 
-📝 I also share my knowledge and experiences in the field on my blog, [imlab](imlab.io). 
+📝 I also share my knowledge and experiences in the field on my blog, [imlab](https://imlab.io). 
 
-📌 If you're into computer vision or just want to know more about it, give my [blog](imlab.io) a read and follow me!
+📌 If you're into computer vision or just want to know more about it, give my [blog](https://imlab.io) a read and follow me!
 
 <div align=center>
 
